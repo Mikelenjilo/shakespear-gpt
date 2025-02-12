@@ -1,1 +1,1 @@
-# nano-gpt
+# shakespear-gpt
